@@ -1,0 +1,12 @@
+{
+  "name": "bubble-sort",
+  "version": "1.0.0",
+  "description": "Implement a function that sorts an array of numbers using the \"bubble sort\" algorithm.",
+  "main": "bubblesort.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Munene Ndereba",
+  "license": "MIT"
+}
